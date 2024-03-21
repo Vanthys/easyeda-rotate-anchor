@@ -1,0 +1,13 @@
+{
+    "name": "Rotate Around",
+    "description": "Allows rotating multiple objects around an anchor/the center",
+    "id": "raround",
+    "author": "Vanthys",
+    "icons": {
+        "default": "icon.svg"
+    },
+    "scripts": [
+        "main.js"
+    ],
+    "version": "0.1"
+}
